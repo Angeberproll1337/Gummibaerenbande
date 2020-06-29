@@ -1,0 +1,21 @@
+{
+  "name": "webanw2backend",
+  "version": "1.0.0",
+  "description": "Backend for WebAnwendungen2 WS1920",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Robert Kuti",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "express": "^4.17.1",
+    "luxon": "^1.19.3",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "jest": "^26.1.0"
+  }
+}
