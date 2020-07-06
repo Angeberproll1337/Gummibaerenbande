@@ -46,21 +46,3 @@ test('exists', () => {
 	expect(daoKat.exists(input)).toEqual(output);
 });
 // ---
-
-<<<<<<< HEAD
-// Another test
-test('exists', () => {
-	const input = 3;
-    const output =  true;
-
-	expect(daoKat.exists(input)).toEqual(output);
-});
-=======
-// Noch ein neuer Test
-test('exists', () => {
-	const input = 5;
-    const output =  true;
-
-	expect(daoKat.exists(input)).toEqual(output);
-});
->>>>>>> 196ef90b968f65e83a7bbd6b9758e6506db86472
